@@ -1,0 +1,9 @@
+"Parameters" : {
+    "WebServerPort": {
+      "Default": "80",
+      "Description" : "TCP/IP port for the web server",
+      "Type": "Number",
+      "MinValue": "1",
+      "MaxValue": "65535"
+    }
+}
